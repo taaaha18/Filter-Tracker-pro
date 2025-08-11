@@ -1,0 +1,123 @@
+/* VDet-style.css */
+
+/* Base Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1c1c1c; /* Dark black background */
+    color: #fff; /* White text for contrast */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 2rem;
+    color: whitesmoke; /* Formula 1 red color */
+    margin: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+/* Table Styles */
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #222; /* Dark background for the table */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5); /* Soft shadow effect */
+}
+
+table th,
+table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #333;
+}
+
+table th {
+    background-color: #D91D2D; /* Formula 1 red for table header */
+    color: #fff; /* White text for header */
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+table td {
+    background-color: #1a1a1a; /* Slightly lighter dark for table rows */
+    color: #f1f1f1; /* Light grey text */
+    font-size: 1rem;
+}
+
+table tr:hover {
+    background-color: #333; /* Darken row on hover */
+}
+
+table tr:nth-child(even) {
+    background-color: #2a2a2a; /* Alternate row color */
+}
+
+/* Loading and Error Styles */
+p {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+p.loading {
+    color: #FFD700; /* Gold for loading */
+}
+
+p.error {
+    color: #FF4747; /* Red for error */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    table {
+        width: 95%;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    table th,
+    table td {
+        padding: 10px;
+    }
+}
+
+/* Additional Formula 1 Theme Styling */
+.vehicle-table-wrapper {
+    background-color: #1b1b1b;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.vehicle-table-wrapper table {
+    border: 2px solid #D91D2D; /* Red border for table */
+}
+
+/* Button (if you want to add a "Refresh" or "Back" button) */
+button {
+    background-color: #D91D2D; /* Formula 1 red */
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px auto;
+    display: block;
+}
+
+button:hover {
+    background-color: #a10f0f; /* Darker red when hovered */
+}
+

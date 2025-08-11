@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0d0d0d;
+    color: #fff;
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+  
+  .settings-container {
+    margin-top: 10px;
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 0.2rem;
+    color: #f44336;
+  }
+  
+  .subtitle {
+    margin-bottom: 2rem;
+    color: #ccc;
+  }
+  
+  .tabs {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: #292929;
+    color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  .tab.selected {
+    background-color: #e10600;
+    color: #fff;
+  }
+  
+  .profile-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 1rem;
+  }
+  
+  .info-text {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 1rem;
+  }
+  
+  .update-button {
+    background-color:#e10600;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 1.5rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .update-button:hover {
+    background-color: #d32f2f;
+  }
+  /* Navbar Styling */
+  .navbar {
+    background-color: #e10600; /* F1 red color */
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Titillium Web', sans-serif; /* F1-like font */
+    position: fixed; /* This makes the navbar stay at the top */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; /* Ensures navbar stays on top of other content */
+  }
+
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase; /* F1 uses uppercase text */
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  padding-bottom: 3px;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s ease;
+}
+
+.navbar-links li:hover {
+  border-bottom: 2px solid #fff;
+}
+
+.update-btn {
+  background-color: #fff;
+  color: #e10600; /* Match the navbar background */
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px; /* F1 uses less rounded corners */
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  transition: background-color 0.3s ease;
+}
+
+.update-btn:hover {
+  background-color: #f0f0f0;
+}
+/* Alternative approach without fixed navbar */
+.settings-container, .profile-container, .profile-info,
+.dashboard-container, /* Add other container classes */
+h2:first-of-type {
+  margin-top: 30px; /* Space between navbar and content */
+}

@@ -1,0 +1,127 @@
+[
+  
+  {
+    "name": "Delo 400 MGX SAE 15W-40",
+    "year": 2006,
+    "price": 29.99,
+    "image": "https://www.caltex.com/content/dam/caltex/lubricants/product-images/delo-400-mgx-sae-15w-40.png",
+    "rating": 4.6,
+    "description":"Delo 400 MGX SAE 15W-40 is an API CJ-4 heavy duty engine oil specifically formulated for on-highway and off-highway applications using either High Sulfur or Low Sulfur Diesel and can also provide protection for newer compliant low emission diesel engines with Selective Catalytic Reduction (SCR), Diesel Particulate Filter (DPF) and Exhaust Gas Recirculation (EGR)."
+  },
+  {
+    "name": "AMSOIL Premium API CJ-4 Synthetic 15W-40 Diesel Oil",
+    "year": 2006,
+    "price": 31.99,
+    "image": "https://www.thebestoil.com/wp-content/uploads/2015/06/DME.jpg",
+    "rating": 4.7,
+    "description":"Superior Shear Stability and Extended Drain Intervals in Ultra-Low Emission Diesel Engines. AMSOIL Synthetic 15W-40 Diesel Oil is the premium choice for API CJ-4 emission-quality diesel oil required by model-year 2007 and newer diesel engines. Built with the latest additive and synthetic base oil technology, AMSOIL Premium Synthetic SAE 15W-40 Diesel Oil exceeds the higher performance demands of modern engines. It withstands the stress of heat, soot and acids to help prevent deposits, corrosion and wear. Extended drain interval recommendations: three times (3X) OEM recommendation, not to exceed 50,000 miles/600 hours or one year, whichever comes first for diesel engines; two times (2X) OEM recommendation, not to exceed 15,000 miles or one year, whichever comes first, for gasoline engines. Drain intervals may be extended further with oil analysis."
+  },
+  {
+    "name": "Castrol EDGE 5W-30 Full Synthetic",
+    "year": 2008,
+    "price": 34.99,
+    "image": "https://www.castrol.com/content/dam/castrol/country-sites-new/en_pk/pakistan/home/images/products/reignited-images/magnatec-hybrid-5w-30-front-4l.png.img.500.medium.png",
+    "rating": 4.8,
+"description":"Castrol MAGNATEC engine oil, featuring DUALOCK technology, is specifically engineered for today’s urban driving environment and designed to protect engines against the wear caused by re-starting in busy traffic."
+  },
+  {
+    "name": "Mobil 1 Extended Performance 0W-20",
+    "year": 2011,
+    "price": 39.99,
+    "image": "https://www.mobil.com/lubricants/-/media/project/wep/mobil/mobil-row-us-1/new-bottle-images/mobil-1-extended-performance-0w-20-200-311.jpg",
+    "rating": 4.9,
+    "description":"What you’re looking for in a motor oil, Advanced full synthetic formula, Go 20,000 miles between oil changes1, Ultimate engine performance even in severe conditions, 20X better high temperature protection3"
+  },
+  {
+    "name": "Shell Helix Ultra 5W-40",
+    "year": 2010,
+    "price": 33.49,
+    "image": "https://www.shell.com.pk/motorists/oils-lubricants/helix-for-cars/helix-fully-synthetic/shell-helix-ultra-5w-40/_jcr_content/root/main/containersection_0_c/standalone_asset_cop.shellimg.jpeg/1699008925554/shell-hilux-5w40.jpeg?imwidth=509&impolicy=amidala-image&imdensity=2",
+    "rating": 4.7,
+    "description":"Unsurpassed sludge protection – no other motor oil can keep your engine closer to factory clean 1, Exceptional protection and cleansing, even at the longest manufacturer-recommended oil-drain intervals, Approved for use by numerous makers of high-performance vehicles and is the only motor oil used by Ferrari"
+  },
+  {
+    "name": "Valvoline Advanced Full Synthetic SAE 5W-30",
+    "year": 2012,
+    "price": 28.99,
+    "image": "https://www.valvolineglobal.com/4a46d8/globalassets/vcom/product%20detail%20pages/motorengine%20oil/full-synthetic/us_advanced_ez_pour_5qt_beauty.jpg?format=webp&quality=80&width=774&height=774&rmode=pad.png",
+    "rating": 4.6,
+    "description":" Proven to maximize engine life with 40% better protection against wear than industry standards, while keeping your vehicle running smoothly in all climates and weather conditions."
+  },
+  
+  {
+    "name": "Pennzoil Platinum Full Synthetic 5W-30",
+    "year": 2013,
+    "price": 31.49,
+    "image": "https://www.pennzoil.com/en_us/products/full-synthetic-motor-oils/pennzoil-platinum-reference/_jcr_content/par/gallery/mediaplayer/image.img.960.jpeg/1713305312235/PZ_Platinum_HERO_5qt-1920x1080.jpeg?imwidth=640.png",
+    "rating": 4.6,
+    "description":" Pennzoil Platinum® is designed to protect your pursuit of every mile, for the life of your engine. Backed by both our 15,000-mile protection guarantee1 , and our 15-year, 500,000-mile warranty3, we’ve got you covered between oil changes and for the long run. Made with natural gas, this premium oil offers cleaner pistons4, protected horsepower, better fuel economy2, and excellent performance in extreme temperatures. It all adds up to complete protection—mile after thrilling mile.​ "
+  },
+  {
+    "name": "Total Quartz 9000 Energy 5W-40",
+    "year": 2007,
+    "price": 29.49,
+    "image": "https://total-cdn-lmdb.afineo.io/PREVIEWS/visuels/HIGH/1000/1163_SW5wSFRJZ3kyS0pjSGtaTnR4YVNRRjBKVDNoRU5JSUJYMWZWZFdwejNucz0=.jpg?1665578252.png",
+    "rating": 4.5,
+    "description":"Synthetic technology engine oil for gasoline and Diesel passenger’s cars engines, particularly suitable for turbo compressed, multi-valve and direct injection diesel engines, and for all types of fuel (gasoline, diesel, LPG). This oil is suitable for all driving conditions (motorways, dense urban traffic...) and is appropriate for all driving styles, especially for sporty or intense driving. It is perfectly suited to engines with catalytic converters and all engines using lead-free fuel or LPG. "
+
+  },
+  {
+    "name": "Hi-Tec Outboard Oil TCW-3",
+    "year": 1996,
+    "price": 19.99,
+    "image": "https://hi-tecoils.com.au/wp-content/uploads/2015/03/1l-outboard-tcw-3.png",
+    "rating": 4.5
+  },
+  {
+    "name": "ARISO SAE 10W-40 API CJ-4",
+    "year": 2006,
+    "price": 29.99,
+    "image": "https://synolexoil.com/wp-content/uploads/2022/07/10W-40-CI-4-20L-1.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "ARISO SAE 15W-40 API CJ-4",
+    "year": 2006,
+    "price": 26.99,
+    "image": "https://synolexoil.com/wp-content/uploads/2022/07/15W-40-CI-4-20L-1.jpg",
+    "rating": 4.5
+  },
+  
+  {
+    "name": "UGL Heavy Duty Diesel Engine Oil API CJ-4",
+    "year": 2006,
+    "price": 28.99,
+    "image": "https://cdn-ilbbbif.nitrocdn.com/MRRaqojguPgPocxlZhBKXXVisbEiDFuY/assets/images/optimized/rev-3344452/unitedgrease.com/wp-content/uploads/2024/06/UGL.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Royal Super 2-Stroke Motorbike Oil API TC / JASO FD",
+    "year": 1995,
+    "price": 18.49,
+    "image": "https://royalsuper.ae/wp-content/uploads/2T-TC-JASO-FD-20L-JUL24-2048x2048.webp",
+    "rating": 4.4
+  },
+  {
+    "name": "Veedol SPRINT 15W-40 CH-4",
+    "year": 1998,
+    "price": 27.99,
+    "image": "https://www.veedolindia.com/sites/default/files/assets/products/SPRINT-15W-40-CH-4.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "General Super Plus XD 15W-40 API CI-4",
+    "year": 2002,
+    "price": 25.99,
+    "image": "https://generallube.com/wp-content/uploads/2024/12/15W40-CI-4-586x1024.jpg",
+    "rating": 4.4
+  },
+  {
+    "name": "Liqui Moly Synthoil Premium 5W-40",
+    "year": 2009,
+    "price": 45.00,
+    "image": "https://liquimoly.cloudimg.io/v7/https://www.liqui-moly.com/media/catalog/product/cache/7c4066dd86a6b9217681a7aaaa67e822/2/0/2040_0728.png?w=730&h=720&func=bound&sharp=1&org_if_sml=1&force_format=webp%252Coriginal.png",
+    "rating": 4.8,
+    "description":"Low-friction, fully synthetic motor oil for all-season use in gasoline and diesel engines without particulate filters (GPF/DPF). Observe manufacturers instructions."
+  }
+]
